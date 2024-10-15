@@ -1,0 +1,9 @@
+# Pedir el nombre del usuario
+nombre = input("Ingresa tu nombre: ")
+
+# Pedir un número entero
+numero = int(input("Ingresa un número entero: "))
+
+# Imprimir el nombre tantas veces como el número introducido
+for _ in range(numero):
+    print(nombre)
