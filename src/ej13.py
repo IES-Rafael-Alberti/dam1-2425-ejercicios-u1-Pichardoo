@@ -2,7 +2,7 @@
 n = int(input("Ingresa el primer número entero (n): "))
 m = int(input("Ingresa el segundo número entero (m): "))
 
-# Calcular el cociente y el resto
+
 cociente = n // m
 resto = n % m
 

@@ -7,5 +7,5 @@ vocal = input("Ingresa una vocal: ")
 # Reemplazar la vocal en la frase por su versión en mayúscula
 frase_modificada = frase.replace(vocal, vocal.upper())
 
-# Mostrar la frase modificada
+¡
 print(f"La frase modificada es: {frase_modificada}")

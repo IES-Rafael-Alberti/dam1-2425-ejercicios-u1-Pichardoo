@@ -1,7 +1,7 @@
 # Leer un número entero positivo
 n = int(input("Ingresa un número entero positivo: "))
 
-# Calcular la suma de los primeros n enteros positivos
+
 suma = n * (n + 1) // 2
 
 # Mostrar el resultado

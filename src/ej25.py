@@ -5,11 +5,11 @@ fecha = input("Ingresa tu fecha de nacimiento (dd/mm/aaaa): ")
 fecha_separada = fecha.replace('/', ' ').split()
 
 # Extraer el día, mes y año
-dia = fecha_separada[0].zfill(2)  # Asegurarse de que el día tenga 2 dígitos
-mes = fecha_separada[1].zfill(2)  # Asegurarse de que el mes tenga 2 dígitos
+dia = fecha_separada[0].zfill(2)  
+mes = fecha_separada[1].zfill(2) 
 año = fecha_separada[2]
 
-# Mostrar el día, mes y año
+
 print(f"Día: {dia}")
 print(f"Mes: {mes}")
 print(f"Año: {año}")

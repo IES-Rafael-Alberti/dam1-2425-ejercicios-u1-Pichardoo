@@ -4,7 +4,7 @@ capital_inicial = float(input("Ingresa la cantidad de dinero depositada en la cu
 # Definir el interés anual
 interes_anual = 0.04
 
-# Calcular el balance después del primer, segundo y tercer año
+
 capital_ano1 = capital_inicial * (1 + interes_anual)
 capital_ano2 = capital_ano1 * (1 + interes_anual)
 capital_ano3 = capital_ano2 * (1 + interes_anual)

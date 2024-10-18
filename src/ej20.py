@@ -4,5 +4,5 @@ telefono = input("Ingresa el número de teléfono en el formato +34-número-exte
 # Dividir el teléfono para obtener el número sin prefijo y extensión
 _, numero, _ = telefono.split('-')
 
-# Mostrar el número sin prefijo y extensión
+
 print(f"El número de teléfono es: {numero}")

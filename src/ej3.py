@@ -7,10 +7,13 @@ alto = 12.0
 ancho = 17
 alto = 12.0
 
-print(ancho / 2)    # Esperado: 8.5 (float)
-print(ancho // 2)   # Esperado: 8 (int)
-print(alto / 3)     # Esperado: 4.0 (float)
-print(1 + 2 * 5)    # Esperado: 11 (int)
+print(ancho / 2)    
+print(ancho // 2)   
+print(alto / 3)     
+print(1 + 2 * 5)    
 
 
-# Cuando termines comprueba con el intérprete si has acertado.
+
+
+
+
